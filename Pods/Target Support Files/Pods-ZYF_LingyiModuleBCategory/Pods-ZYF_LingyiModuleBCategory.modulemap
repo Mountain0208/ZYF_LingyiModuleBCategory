@@ -1,0 +1,6 @@
+framework module Pods_ZYF_LingyiModuleBCategory {
+  umbrella header "Pods-ZYF_LingyiModuleBCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}
